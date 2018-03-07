@@ -2,3 +2,7 @@ Keylogger.cbp
 AppLog.txt
 Keylogger.layout
 /obj
+/Decrypt/obj
+/Decrypt/Decrypt.cbp
+/Decrypt/Decrypt.depend
+/Decrypt/Decrypt.layout
